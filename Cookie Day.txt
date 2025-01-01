@@ -1,0 +1,17 @@
+<h1>Cookie Day</h1>
+A very caring mother nas N. cookie jars with her. Each jar contains a different type of coolde.
+There are A cookies in the 6th jar.
+The mother d to give some cookies to her A children, and she decided to only distribute cookies of a single type. That is, shell choose exactly one of the N jars and distribute the cookies within it.
+Sherd like to ensure a couple of things
+Each child should receive at least 1 cookie.
+Each child should also receive an equal number of cookies. in the spirit of fairness.
+Under the above two conditions, what is the minimum number of "wasted" cookies, Le, cookies that remain in the chosen jar after distributiori?
+If it is not possible to give out any cookies at all print -1 mstead.
+Input Format
+The first line of input contains a single integer 1. denoting the number of test cases.
+Each test case consists of two lines of input
+The first line of each test case contains two space-separated integers Nand K-the number of cookte jars and the number of children,
+The second line contains & space-separated integers A, A1, Av-where AL is the number of cooldes in the sith jar.
+Output Format
+For each test case, output on a new line a single integer denoting the minimum number of cookies that will gu to waste.
+If it is not possible to distribute the cookies at all, output-1 instead
